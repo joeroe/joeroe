@@ -1,18 +1,15 @@
 
-<!--
-**joeroe/joeroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Joe. 
 
-Here are some ideas to get you started:
+I'm a computational archaeologist and research software engineer at the University of Bern.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use GitHub for software packages, [research compendiums](https://research-compendium.science/) and various other projects. I try to work in the open as much as possible, so please be aware that many of my repositories are experiments, works-in-progress or abandonded ideas. Below you can find a curated list of my more 'mature' projects.
+
+More info & contacts:
+
+* 🏠 <https://joeroe.io>
+* ✉️ <joe@joeroe.io>
+* 🐘 <a rel="me" href="https://archaeo.social/@joeroe">joeroe@archaeo.social</a>
 
 ## Software
 
