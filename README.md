@@ -9,7 +9,7 @@ More info & contacts:
 
 * 🏠 <https://joeroe.io>
 * ✉️ <joe@joeroe.io>
-* 🐘 <a rel="me" href="https://archaeo.social/@joeroe">joeroe@archaeo.social</a>
+* 🐘 <a rel="me" href="https://archaeo.social/@joeroe">archaeo.social/@joeroe</a>
 
 ## Software
 
