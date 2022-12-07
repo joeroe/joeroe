@@ -35,3 +35,10 @@ More info & contacts:
 
 * [tavo-a27](https://github.com/joeroe/tavo-a27) – data from Uerpmann 1987, *The Ancient Distribution of Ungulate Mammals in the Middle East* (TAVO A27)
 * [swapdata](https://github.com/joeroe/swapdata) – Southwest Asian palaeoarchaeology data
+
+## Lists
+
+Of handy GitHub repositories:
+
+* [:atom_symbol: Radiocarbon data](https://github.com/stars/joeroe/lists/radiocarbon-data)
+* [:pick: R packages for archaeology](https://github.com/stars/joeroe/lists/r-packages-for-archaeology)
