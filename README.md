@@ -3,7 +3,7 @@
 
 I'm a computational archaeologist and research software engineer at the University of Bern.
 
-I use GitHub for software packages, [research compendiums](https://research-compendium.science/) and various other projects. I try to work in the open as much as possible, so please be aware that many of my repositories are experiments, works-in-progress or abandonded ideas. Below you can find a curated list of my more 'mature' projects.
+I use GitHub for software packages, [research compendiums](https://research-compendium.science/) and various other projects. I try to work in the open as much as possible, so please be aware that many of my repositories are unpublished experiments, works-in-progress or abandonded ideas. Below you can find a curated list of my more 'mature' projects.
 
 More info & contacts:
 
@@ -33,8 +33,23 @@ More info & contacts:
 
 ## Data
 
+* **[xronos](https://github.com/xronos-ch)** – an open repository for chronometric data in archaeology (incl. [R package](https://github.com/xronos-ch/xronos.R), [web app](https://github.com/xronos-ch/xronos.rails))
 * [tavo-a27](https://github.com/joeroe/tavo-a27) – data from Uerpmann 1987, *The Ancient Distribution of Ungulate Mammals in the Middle East* (TAVO A27)
 * [swapdata](https://github.com/joeroe/swapdata) – Southwest Asian palaeoarchaeology data
+
+## Research compendiums
+
+* [SWAsiaNeolithicFounderCrops](https://github.com/joeroe/SWAsiaNeolithicFounderCrops) – data and code for Arranz-Otaegui & Roe (in prep.), 'Revisiting the concept of the "Neolithic Founder Crops" in southwest Asia'
+* [MartinHinz/bayesian.demographic.reconstruction.2022](https://github.com/MartinHinz/bayesian.demographic.reconstruction.2022) – data and code for 'Bayesian inference of prehistoric population dynamics from multiple proxies: a case study from the North of the Swiss Alps' ([preprint](https://osf.io/dbcag/))
+<!-- Public WIP
+* [BadiaPaleoForaENM](https://github.com/joeroe/BadiaPaleoFloraENM) – data and code for ecological niche modelling of paleoflora in the Badia 
+* [ZagrosC14](https://github.com/joeroe/ZagrosC14) – data and code for an analysis of chronology and regional settlement in the Zagros, 20,000-6000 BP
+-->
+
+## Teaching materials
+
+* [gis_in_archaeology](https://github.com/joeroe/gis_in_archaeology) – course website for 'GIS in Archaeology' (437571) at the University of Bern.
+* [r4r_visualisation](https://github.com/joeroe/r4r_visualisation) – slides, code examples, and exercises for the visualisation module of [R for Archaeologists](http://www.mappaproject.org/r4rchaeologists/), a winter school held at the University of Pisa.
 
 ## Lists
 
