@@ -13,7 +13,7 @@ More info & contacts:
 
 ## Software
 
-### R packages (active)
+### R packages (stable)
 
 * [era](https://github.com/joeroe/era) – year-based time scales
 * [rpaleoclim](https://github.com/joeroe/rpaleoclim) – download paleoclimate data from PaleoClim
