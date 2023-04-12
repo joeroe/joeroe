@@ -39,7 +39,7 @@ More info & contacts:
 
 ## Research compendiums
 
-* [SWAsiaNeolithicFounderCrops](https://github.com/joeroe/SWAsiaNeolithicFounderCrops) – data and code for Arranz-Otaegui & Roe (in prep.), 'Revisiting the concept of the "Neolithic Founder Crops" in southwest Asia'
+* [SWAsiaNeolithicFounderCrops](https://github.com/joeroe/SWAsiaNeolithicFounderCrops) – data and code for Arranz-Otaegui & Roe (2023), 'Revisiting the concept of the "Neolithic Founder Crops" in southwest Asia', *Vegetation History & Archaeobotany*, <https://doi.org/10.1007/s00334-023-00917-1>
 * [MartinHinz/bayesian.demographic.reconstruction.2022](https://github.com/MartinHinz/bayesian.demographic.reconstruction.2022) – data and code for 'Bayesian inference of prehistoric population dynamics from multiple proxies: a case study from the North of the Swiss Alps' ([preprint](https://osf.io/dbcag/))
 <!-- Public WIP
 * [BadiaPaleoForaENM](https://github.com/joeroe/BadiaPaleoFloraENM) – data and code for ecological niche modelling of paleoflora in the Badia 
