@@ -39,12 +39,18 @@ More info & contacts:
 
 ## Research compendiums
 
+### Published
+
 * [SWAsiaNeolithicFounderCrops](https://github.com/joeroe/SWAsiaNeolithicFounderCrops) – data and code for Arranz-Otaegui & Roe (2023), 'Revisiting the concept of the "Neolithic Founder Crops" in southwest Asia', *Vegetation History & Archaeobotany*, <https://doi.org/10.1007/s00334-023-00917-1>
 * [MartinHinz/bayesian.demographic.reconstruction.2022](https://github.com/MartinHinz/bayesian.demographic.reconstruction.2022) – data and code for 'Bayesian inference of prehistoric population dynamics from multiple proxies: a case study from the North of the Swiss Alps' ([preprint](https://osf.io/dbcag/))
 <!-- Public WIP
 * [BadiaPaleoForaENM](https://github.com/joeroe/BadiaPaleoFloraENM) – data and code for ecological niche modelling of paleoflora in the Badia 
 * [ZagrosC14](https://github.com/joeroe/ZagrosC14) – data and code for an analysis of chronology and regional settlement in the Zagros, 20,000-6000 BP
 -->
+
+### Conference papers
+
+* [dabawa23_enm](https://github.com/joeroe/dabawa23_enm),  paper presented at "Digital Archaeology Bern – Ancient West Asia", Bern, 6–7 October 2023, 'Modelling the range of wild plants and crop progenitors in the Late Epipalaeolithic–Early Neolithic Levant'
 
 ## Teaching materials
 
