@@ -54,7 +54,8 @@ More info & contacts:
 
 ## Teaching materials
 
-* [gis_in_archaeology](https://github.com/joeroe/gis_in_archaeology) – course website for 'GIS in Archaeology' (437571) at the University of Bern.
+* [gis_in_archaeology](https://github.com/joeroe/gis_in_archaeology) – course website for 'GIS in Archaeology' (437571) at the University of Bern
+* [smada](https://github.com/joeroe/smada) – course website for 'Statistical Methods for Archaeological Data Analysis' (452240) at the University of Bern
 * [r4r_visualisation](https://github.com/joeroe/r4r_visualisation) – slides, code examples, and exercises for the visualisation module of [R for Archaeologists](http://www.mappaproject.org/r4rchaeologists/), a winter school held at the University of Pisa.
 
 ## Lists
