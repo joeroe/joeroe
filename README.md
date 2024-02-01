@@ -28,6 +28,7 @@ More info & contacts:
 
 ### Other
 
+* [ruby-radiocarbon](https://github.com/joeroe/ruby-radiocarbon) – Ruby gem for fast radiocarbon calibration
 * [piwigo-3dhop](https://github.com/joeroe/piwigo-3dhop) – [Piwigo](/piwigo) plugin for viewing 3D models using 3DHOP
 * [risotto](https://github.com/joeroe/risotto) – minimalist hugo theme inspired by terminal ricing aesthetics. Originally developed for the [CAA/SSLA website](https://github.com/sslarch/sslarch.github.io)
 
