@@ -42,6 +42,7 @@ More info & contacts:
 
 ### Published
 
+* [zackbatist/openarchaeo-collaboration](https://github.com/zackbatist/openarchaeo-collaboration) – data and code for Batist & Roe 2024, Open archaeology, open source? Collaborative practices in an emerging community of archaeological software engineers, *Internet Archaeology* 67. <https://doi.org/10.11141/ia.67.13>
 * [SWAsiaNeolithicFounderCrops](https://github.com/joeroe/SWAsiaNeolithicFounderCrops) – data and code for Arranz-Otaegui & Roe (2023), 'Revisiting the concept of the "Neolithic Founder Crops" in southwest Asia', *Vegetation History & Archaeobotany*, <https://doi.org/10.1007/s00334-023-00917-1>
 * [MartinHinz/bayesian.demographic.reconstruction.2022](https://github.com/MartinHinz/bayesian.demographic.reconstruction.2022) – data and code for 'Bayesian inference of prehistoric population dynamics from multiple proxies: a case study from the North of the Swiss Alps' ([preprint](https://osf.io/dbcag/))
 <!-- Public WIP
