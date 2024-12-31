@@ -42,9 +42,11 @@ More info & contacts:
 
 ### Published
 
+* [joeroe/AzraqLEENFaunaMorphometry](https://github.com/joeroe/AzraqLEENFaunaMorphometry) - data and code for Martin et al. 2025, Late Pleistocene-Holocene mammalian body size change in Jordan’s Azraq Basin: a case for climate driven species distribution shifts. *Quaternary Science Reviews* 350: 109147. <https://doi.org/10.1016/j.quascirev.2024.109147>
+* [joeroe/VarnaDietClustering](https://github.com/joeroe/VarnaDietClustering) - data and code for cluster analysis in Gaydarska et al. 2024. Dietary Variability in the Varna Chalcolithic Cemeteries. *European Journal of Archaeology*. <https://doi.org/10.1017/eaa.2024.33>
 * [zackbatist/openarchaeo-collaboration](https://github.com/zackbatist/openarchaeo-collaboration) – data and code for Batist & Roe 2024, Open archaeology, open source? Collaborative practices in an emerging community of archaeological software engineers, *Internet Archaeology* 67. <https://doi.org/10.11141/ia.67.13>
 * [SWAsiaNeolithicFounderCrops](https://github.com/joeroe/SWAsiaNeolithicFounderCrops) – data and code for Arranz-Otaegui & Roe (2023), 'Revisiting the concept of the "Neolithic Founder Crops" in southwest Asia', *Vegetation History & Archaeobotany*, <https://doi.org/10.1007/s00334-023-00917-1>
-* [MartinHinz/bayesian.demographic.reconstruction.2022](https://github.com/MartinHinz/bayesian.demographic.reconstruction.2022) – data and code for 'Bayesian inference of prehistoric population dynamics from multiple proxies: a case study from the North of the Swiss Alps' ([preprint](https://osf.io/dbcag/))
+* [MartinHinz/bayesian.demographic.reconstruction.2022](https://github.com/MartinHinz/bayesian.demographic.reconstruction.2022) – data and code for Hinz et al., 'Bayesian inference of prehistoric population dynamics from multiple proxies: a case study from the North of the Swiss Alps' ([preprint](https://osf.io/dbcag/))
 <!-- Public WIP
 * [BadiaPaleoForaENM](https://github.com/joeroe/BadiaPaleoFloraENM) – data and code for ecological niche modelling of paleoflora in the Badia 
 * [ZagrosC14](https://github.com/joeroe/ZagrosC14) – data and code for an analysis of chronology and regional settlement in the Zagros, 20,000-6000 BP
