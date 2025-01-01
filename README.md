@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I'm Joe. 
 
-I'm a computational archaeologist and research software engineer at the University of Bern.
+I'm a computational archaeologist and research software engineer at the University of Copenhagen.
 
 I use GitHub for software packages, [research compendiums](https://research-compendium.science/) and various other projects. I try to work in the open as much as possible, so please be aware that many of my repositories are unpublished experiments, works-in-progress or abandonded ideas. Below you can find a curated list of my more 'mature' projects.
 
