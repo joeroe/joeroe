@@ -54,7 +54,8 @@ More info & contacts:
 
 ### Conference papers
 
-* [dabawa23_enm](https://github.com/joeroe/dabawa23_enm),  paper presented at "Digital Archaeology Bern – Ancient West Asia", Bern, 6–7 October 2023, 'Modelling the range of wild plants and crop progenitors in the Late Epipalaeolithic–Early Neolithic Levant'
+* [caa26_failed_enm](https://github.com/joeroe/caa26_failed_enm) - paper presented at the Computer Applications and Quantitative Methods in Archaeology (CAA) annual conference in Vienna, 31 March – 4th April 2026, 'Can ecological models predict the occurrence of species in the archaeological record? Can I?'
+* [dabawa23_enm](https://github.com/joeroe/dabawa23_enm) - paper presented at "Digital Archaeology Bern – Ancient West Asia", Bern, 6–7 October 2023, 'Modelling the range of wild plants and crop progenitors in the Late Epipalaeolithic–Early Neolithic Levant'
 
 ## Teaching materials
 
