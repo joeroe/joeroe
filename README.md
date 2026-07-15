@@ -36,7 +36,6 @@ More info & contacts:
 
 * **[xronos](https://github.com/xronos-ch)** – an open repository for chronometric data in archaeology (incl. [R package](https://github.com/xronos-ch/xronos.R), [web app](https://github.com/xronos-ch/xronos.rails))
 * [tavo-a27](https://github.com/joeroe/tavo-a27) – data from Uerpmann 1987, *The Ancient Distribution of Ungulate Mammals in the Middle East* (TAVO A27)
-* [swapdata](https://github.com/joeroe/swapdata) – Southwest Asian palaeoarchaeology data
 
 ## Research compendiums
 
