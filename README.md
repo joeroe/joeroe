@@ -15,13 +15,13 @@ More info & contacts:
 
 ### R packages (stable)
 
+* [controller](https://github.com/joeroe/controller) – controlled vocabularies
 * [era](https://github.com/joeroe/era) – year-based time scales
 * [rpaleoclim](https://github.com/joeroe/rpaleoclim) – download paleoclimate data from PaleoClim
 
 ### R packages (experimental)
 
 * [c14](https://github.com/joeroe/c14) – tidy radiocarbon data
-* [controller](https://github.com/joeroe/controller) – tools for controlled vocabularies
 * [fieldwalkr](https://github.com/joeroe/fieldwalkr) – spatial sampling and survey simulation
 * [rintchron](https://github.com/joeroe/rintchron) –  interface to IntChron
 * [stratigraphr](https://github.com/joeroe/stratigraphr) – archaeological stratigraphy and chronological sequences
