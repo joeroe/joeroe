@@ -8,7 +8,7 @@ I use GitHub for software packages, [research compendiums](https://research-comp
 More info & contacts:
 
 * 🏠 <https://joeroe.io>
-* ✉️ <joe@joeroe.io>
+* ✉️ <joeroe@archaeo.dev>
 * 🐘 <a rel="me" href="https://archaeo.social/@joeroe">archaeo.social/@joeroe</a>
 
 ## Software
