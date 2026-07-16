@@ -22,9 +22,11 @@ More info & contacts:
 ### R packages (experimental)
 
 * [c14](https://github.com/joeroe/c14) – tidy radiocarbon data
+* [chronologr](https://github.com/joeroe/chronologr) - port of the [ChronLog](https://chrono.ulb.be/) toolkit for chronological graphs 
 * [fieldwalkr](https://github.com/joeroe/fieldwalkr) – spatial sampling and survey simulation
 * [rintchron](https://github.com/joeroe/rintchron) –  interface to IntChron
 * [stratigraphr](https://github.com/joeroe/stratigraphr) – archaeological stratigraphy and chronological sequences
+* [tempo](https://github.com/joeroe/tempo) - chronological intervals and temporal relations
 
 ### Other
 
