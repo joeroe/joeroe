@@ -12,6 +12,7 @@ More info & contacts:
 * 🐘 <a rel="me" href="https://archaeo.social/@joeroe">archaeo.social/@joeroe</a>
 
 ## Software
+[![packages status badge](https://joeroe.r-universe.dev/badges/:packages)](https://joeroe.r-universe.dev/packages)
 
 ### R packages (stable)
 
