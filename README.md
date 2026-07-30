@@ -16,20 +16,20 @@ More info & contacts:
 
 ### R packages (stable)
 
+* [c14](https://github.com/joeroe/c14) – tidy radiocarbon data
 * [controller](https://github.com/joeroe/controller) – controlled vocabularies
 * [era](https://github.com/joeroe/era) – year-based time scales
+* [rintchron](https://github.com/joeroe/rintchron) –  interface to IntChron
 * [rpaleoclim](https://github.com/joeroe/rpaleoclim) – download paleoclimate data from PaleoClim
+* [stratigraphr](https://github.com/joeroe/stratigraphr) – archaeological stratigraphy and chronological sequences
+* [tempo](https://github.com/joeroe/tempo) - chronological intervals and temporal relations
 
 ### R packages (experimental)
 
-* [c14](https://github.com/joeroe/c14) – tidy radiocarbon data
 * [chronologr](https://github.com/joeroe/chronologr) - port of the [ChronLog](https://chrono.ulb.be/) toolkit for chronological graphs
 * [fieldwalkr](https://github.com/joeroe/fieldwalkr) – spatial sampling and survey simulation
 * [islay](https://github.com/joeroe/islay) - datasets for teaching R for archaeologists
 * [numerals](https://github.com/joeroe/numerals) - numeric vectors with Unicode numerals
-* [rintchron](https://github.com/joeroe/rintchron) –  interface to IntChron
-* [stratigraphr](https://github.com/joeroe/stratigraphr) – archaeological stratigraphy and chronological sequences
-* [tempo](https://github.com/joeroe/tempo) - chronological intervals and temporal relations
 
 ### Other
 
