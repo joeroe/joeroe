@@ -23,10 +23,11 @@ More info & contacts:
 * [rpaleoclim](https://github.com/joeroe/rpaleoclim) – download paleoclimate data from PaleoClim
 * [stratigraphr](https://github.com/joeroe/stratigraphr) – archaeological stratigraphy and chronological sequences
 * [tempo](https://github.com/joeroe/tempo) - chronological intervals and temporal relations
+* [xronos](https://github.com/xronos-ch/xronos.R) – R client to [XRONOS](https://xronos.ch), an open data infrastructure for archaeological chronology
 
 ### R packages (experimental)
 
-* [chronologr](https://github.com/joeroe/chronologr) - port of the [ChronLog](https://chrono.ulb.be/) toolkit for chronological graphs
+* [chronologr](https://github.com/joeroe/chronologr) - port of the [ChronoLog](https://chrono.ulb.be/) toolkit for chronological graphs
 * [fieldwalkr](https://github.com/joeroe/fieldwalkr) – spatial sampling and survey simulation
 * [islay](https://github.com/joeroe/islay) - datasets for teaching R for archaeologists
 * [numerals](https://github.com/joeroe/numerals) - numeric vectors with Unicode numerals
